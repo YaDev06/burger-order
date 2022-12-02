@@ -1,0 +1,10 @@
+.routerLinkActiveRang{
+    color: blue;
+}
+/* sm:bg-blue-700 text-white */
+@media (max-width: 760px) { 
+    .routerLinkActiveRang{
+        background: blue;
+        color:white
+    }
+ }
